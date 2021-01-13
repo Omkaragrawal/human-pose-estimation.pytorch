@@ -8,3 +8,4 @@ json_tricks
 scikit-image
 tensorboardX>=1.2
 torchvision
+pillow>=8.0.1 # not directly required, pinned by Snyk to avoid a vulnerability
